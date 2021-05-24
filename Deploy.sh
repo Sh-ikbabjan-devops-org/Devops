@@ -1,3 +1,0 @@
-iam updating this file
-
-helow this is script file...
